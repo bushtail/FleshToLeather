@@ -1,6 +1,6 @@
 main: ca.evannosich.FleshToLeather.FleshToLeather
 name: FleshToLeather
-api-version: 1.14.4
+api-version: 1.14
 version: 1.0
 author: Evan Nosich (ComradeBushtail)
 description: A plugin that allows players to smelt rotten flesh in a furnace to create leather.
