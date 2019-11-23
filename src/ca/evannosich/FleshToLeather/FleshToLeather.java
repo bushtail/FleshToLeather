@@ -10,7 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class FleshToLeather extends JavaPlugin {
 
     @Override
-    public void onEnable(){
+    public void onEnable() {
 
         ItemStack leatherItem = new ItemStack(Material.LEATHER);
 
